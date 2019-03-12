@@ -1,5 +1,5 @@
-var APP_ID = 'rKtTmrySiGgliyIaSYBYyjno-gzGzoHsz';
-var APP_KEY = 'VYR5wTSWmPfbiUfpvhN4du7r';
+var APP_ID = 'HsmNMPACWh3IT0Tw9rcB7YKS-gzGzoHsz';
+var APP_KEY = 's6sFR5XfPrRX90MmlXwbrt1x';
 
 AV.init({
     appId: APP_ID,
